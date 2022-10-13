@@ -24,7 +24,7 @@ const App = () => {
 
     return (
         <div className='app'>
-            <h1>Crypto Gallery</h1>
+            <h1>MONEYVERSO</h1>
             <CryptoList coinsData={currentPosts} />
             <Pagination
                 totalPosts={coinsData.length}
